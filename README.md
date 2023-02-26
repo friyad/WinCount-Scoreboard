@@ -1,6 +1,8 @@
-# Scoreboard Application by Friyad
+# WinCount - Scoreboard by Friyad
 
 This is a simple scoreboard application where users can add multiple matches and keep track of their scores. Users can increment or decrement the score for each match and reset the scores for all matches at once.
+
+#### Live link: https://wincount-scoreboard.netlify.app/
 
 ### Technologies Used
 
